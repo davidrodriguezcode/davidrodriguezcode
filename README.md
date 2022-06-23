@@ -9,7 +9,7 @@ I am a Mobile and Web Developer from Texas.
 
 - :drum: In my free time, I play drums!
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](drodriguezonline)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/drodriguezonline/)
 
 - :link: Visit my Portfolio: [My Portfolio](https://www.davidrodriguezonline.com "My Portfolio")
 
