@@ -4,8 +4,8 @@
 
 ### :man_technologist: About Me :
     
-I am a Mobile and Web Developer from Texas.
-- :computer: I am working as a Mobile and Web Developer in my professional life.
+I'm a Mobile Developer and a Web Developer from Texas.
+- :computer: I'm working as a Mobile and Web Developer in my professional life.
 
 - :drum: In my free time, I play drums!
 
